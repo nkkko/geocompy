@@ -45,6 +45,8 @@ To run the book in Codespaces, click on the link below.
 [![Open in GitHub
 Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=447558863)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/geocompx/geocompy)
+
 You should [see](https://github.com/geocompx/geocompy/issues/114)
 something like this, the result of running all the code in the book by
 opening the terminal (e.g. with the command Ctrl+J) and entering the
